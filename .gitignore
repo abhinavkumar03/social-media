@@ -18,7 +18,7 @@ coverage/
 .vitest/
 
 # environment files
-.env
+
 .env.*.local
 
 # editor/IDE stuff
